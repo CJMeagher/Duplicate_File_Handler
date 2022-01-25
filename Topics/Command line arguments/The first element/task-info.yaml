@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: No, it is the first argument of the script or an empty string if it takes
+    no arguments.
+- text: Yes, it's "python", an indication that we want to run a python script.
+- text: No, it's the path to the executed script.
+- text: Yes, it is the path to the python interpreter.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8121#comment
+status: Solved
+record: -1

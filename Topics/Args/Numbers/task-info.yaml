@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # put your python code here
+    def multiply():
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7252#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 09 Jan 2022 13:54:53 UTC
+record: -1
